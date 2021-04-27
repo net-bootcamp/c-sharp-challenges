@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\BankingChallenge\BankingChallenge\bin\Debug\netcoreapp3.1\BankingChallenge.exe
+C:\Users\HP\source\repos\BankingChallenge\BankingChallenge\bin\Debug\netcoreapp3.1\BankingChallenge.deps.json
+C:\Users\HP\source\repos\BankingChallenge\BankingChallenge\bin\Debug\netcoreapp3.1\BankingChallenge.runtimeconfig.json
+C:\Users\HP\source\repos\BankingChallenge\BankingChallenge\bin\Debug\netcoreapp3.1\BankingChallenge.runtimeconfig.dev.json
+C:\Users\HP\source\repos\BankingChallenge\BankingChallenge\bin\Debug\netcoreapp3.1\BankingChallenge.dll
+C:\Users\HP\source\repos\BankingChallenge\BankingChallenge\bin\Debug\netcoreapp3.1\BankingChallenge.pdb
+C:\Users\HP\source\repos\BankingChallenge\BankingChallenge\obj\Debug\netcoreapp3.1\BankingChallenge.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BankingChallenge\BankingChallenge\obj\Debug\netcoreapp3.1\BankingChallenge.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BankingChallenge\BankingChallenge\obj\Debug\netcoreapp3.1\BankingChallenge.AssemblyInfo.cs
+C:\Users\HP\source\repos\BankingChallenge\BankingChallenge\obj\Debug\netcoreapp3.1\BankingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BankingChallenge\BankingChallenge\obj\Debug\netcoreapp3.1\BankingChallenge.dll
+C:\Users\HP\source\repos\BankingChallenge\BankingChallenge\obj\Debug\netcoreapp3.1\BankingChallenge.pdb
+C:\Users\HP\source\repos\BankingChallenge\BankingChallenge\obj\Debug\netcoreapp3.1\BankingChallenge.genruntimeconfig.cache
